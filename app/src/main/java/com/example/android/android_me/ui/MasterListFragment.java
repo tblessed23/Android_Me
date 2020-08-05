@@ -25,6 +25,8 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
+
+
 import com.example.android.android_me.R;
 import com.example.android.android_me.data.AndroidImageAssets;
 
